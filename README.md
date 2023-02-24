@@ -1,0 +1,1 @@
+This repo has been made to submit exercises for the DevOps with Docker course by the University of Helsinky
