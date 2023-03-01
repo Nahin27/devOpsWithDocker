@@ -1,0 +1,1 @@
+<!-- I have a few other images besides the ones downloaded for this exercise so I can't complete this. -->
